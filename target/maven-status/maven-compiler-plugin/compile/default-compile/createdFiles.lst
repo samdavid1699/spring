@@ -1,3 +1,4 @@
+com\newSpring\App\customer\StudentService.class
 com\newSpring\App\AppApplication.class
-com\newSpring\App\customer\CustomerController.class
-com\newSpring\App\customer\Customer.class
+com\newSpring\App\customer\StudentController.class
+com\newSpring\App\customer\Student.class
